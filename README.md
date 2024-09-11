@@ -19,7 +19,6 @@ This is a React-based web application for managing and displaying emails from an
    
    git clone https://github.com/Snehal-Gloria/ReachInBox_Assignment.git
    cd ReachInBox_Assignment
-![loginpage](https://github.com/user-attachments/assets/4044ad11-b078-407d-bf82-8cb96ff3e967)
 
 
 ## Install Dependencies:
