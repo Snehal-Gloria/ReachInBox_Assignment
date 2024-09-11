@@ -18,6 +18,7 @@ This is a React-based web application for managing and displaying emails from an
  Clone the repository:
    
    git clone https://github.com/Snehal-Gloria/ReachInBox_Assignment.git
+   
    cd ReachInBox_Assignment
 
 
@@ -33,8 +34,8 @@ Running the Application
 ![loginpage](https://github.com/user-attachments/assets/4044ad11-b078-407d-bf82-8cb96ff3e967)
 
 ## Landing Page
+![landing](https://github.com/user-attachments/assets/6029230e-e870-41e4-966c-fd1ea74dcb08)
 
-<img width="1440" alt="Onebox (2)" src="https://github.com/user-attachments/assets/f8af471a-6706-4022-8e87-ca0b7640eb0f">
 
 
 
